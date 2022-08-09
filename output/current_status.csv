@@ -1,0 +1,33 @@
+stock,taxa,variable,year,mean,sd,lower,upper,status
+Acanthocybium_solandri,Acanthocybium_solandri,b_div_bmsy,2019,1.082344946,0.181282325,0.78701138,1.392168699,Fully fished
+Alopias_spp,Alopias_spp,b_div_bmsy,2019,1.000211243,0.232362196,0.686271105,1.441095841,Fully fished
+Arripis_trutta,Arripis_trutta,b_div_bmsy,2019,0.611288049,0.196355837,0.443183853,0.836200712,Overfished
+Auxis_rochei,Auxis_rochei,b_div_bmsy,2019,0.860731746,0.249822975,0.574103366,1.275947069,Fully fished
+Auxis_thazard_A. rochei,Auxis_thazard_A. rochei,b_div_bmsy,2019,1.068472707,0.203037487,0.772378824,1.458001449,Fully fished
+Chirocentrus_spp,Chirocentrus_spp,b_div_bmsy,2019,1.113577326,0.207669925,0.786122853,1.530367826,Fully fished
+Crustacea,Crustacea,b_div_bmsy,2019,0.975408875,0.226794204,0.684555906,1.401886415,Fully fished
+Epinephelinae,Epinephelinae,b_div_bmsy,2019,0.908530707,0.232054083,0.616077293,1.308041522,Fully fished
+Gymnocephalus_cernua,Gymnocephalus_cernua,b_div_bmsy,2019,0.579661486,0.222728804,0.40930146,0.832290333,Overfished
+Istiompax_indica,Istiompax_indica,b_div_bmsy,2019,0.922259324,0.232114678,0.634559664,1.32463804,Fully fished
+Istiophorus_platypterus,Istiophorus_platypterus,b_div_bmsy,2019,0.993396908,0.227949402,0.676430768,1.405475937,Fully fished
+Lates_calcarifer,Lates_calcarifer,b_div_bmsy,2019,0.99606595,0.222437816,0.70805388,1.422600967,Fully fished
+Leiognathus_spp,Leiognathus_spp,b_div_bmsy,2019,0.901207658,0.25490117,0.589930873,1.333155155,Fully fished
+Lutjanidae,Lutjanidae,b_div_bmsy,2019,1.02009685,0.219337107,0.715102248,1.438356609,Fully fished
+Mollusca,Mollusca,b_div_bmsy,2019,0.899475281,0.229044445,0.612960912,1.297653544,Fully fished
+Muraenesox_spp,Muraenesox_spp,b_div_bmsy,2019,0.822714309,0.221092274,0.582152846,1.178581691,Fully fished
+Pagrus_auratus,Pagrus_auratus,b_div_bmsy,2019,0.767149084,0.206144733,0.552310947,1.056332431,Overfished
+Pectinidae,Pectinidae,b_div_bmsy,2019,0.853422616,0.239162862,0.586114347,1.243811299,Fully fished
+Perciformes,Perciformes,b_div_bmsy,2019,0.854213522,0.222981343,0.596618583,1.223242815,Fully fished
+Platycephalus,Platycephalus,b_div_bmsy,2019,0.966700655,0.229524482,0.647673512,1.363309096,Fully fished
+Pleuronectiformes,Pleuronectiformes,b_div_bmsy,2019,1.028665444,0.212270571,0.733128223,1.452241358,Fully fished
+Prionace_glauca,Prionace_glauca,b_div_bmsy,2019,1.094046276,0.219298918,0.778300207,1.532549461,Fully fished
+Rastrelliger_brachysoma,Rastrelliger_brachysoma,b_div_bmsy,2019,1.010457986,0.227198348,0.694897529,1.457347333,Fully fished
+Sarda_orientalis,Sarda_orientalis,b_div_bmsy,2019,1.185712638,0.196525307,0.851734988,1.611789552,Fully fished
+Sardinella_gibbosa,Sardinella_gibbosa,b_div_bmsy,2019,0.993928036,0.225498103,0.696761676,1.430012021,Fully fished
+Scomberoides_spp,Scomberoides_spp,b_div_bmsy,2019,0.973261095,0.22968571,0.670376251,1.399925686,Fully fished
+Selaroides_leptolepis,Selaroides_leptolepis,b_div_bmsy,2019,1.029305823,0.21730704,0.725879068,1.453560705,Fully fished
+Sillago_sihama,Sillago_sihama,b_div_bmsy,2019,0.989999982,0.216388587,0.695615655,1.393572322,Fully fished
+Tetrapturus_audax,Tetrapturus_audax,b_div_bmsy,2019,0.894693481,0.235715139,0.612616675,1.280788053,Fully fished
+Thunnus_obesus,Thunnus_obesus,b_div_bmsy,2019,0.917235968,0.227484012,0.640001095,1.32042333,Fully fished
+Thunnus_tonggol,Thunnus_tonggol,b_div_bmsy,2019,0.926232968,0.234731394,0.637854337,1.354474288,Fully fished
+Xiphia_ gladius,Xiphia_ gladius,b_div_bmsy,2019,0.90905747,0.241212459,0.623854526,1.346430546,Fully fished
